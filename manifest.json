@@ -1,0 +1,20 @@
+{
+    "name": "Tell Me a Joke",
+    "short_name": "Tell Me a Joke",
+    "icons": [
+      {
+        "src": "/joking128.png",
+        "sizes": "128x128",
+        "type": "image/png"
+      },
+      {
+        "src": "/joking512.png",
+        "sizes": "512x512",
+        "type": "image/png"
+      }
+    ],
+    "start_url": "/",
+    "display": "fullscreen",
+    "background_color": "#324759",
+    "theme_color": "#324759"
+  }

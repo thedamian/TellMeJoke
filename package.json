@@ -1,0 +1,11 @@
+{
+  "name": "talkjoke",
+  "version": "1.0.0",
+  "description": "give me a word and I'll tell you a joke!",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT"
+}
